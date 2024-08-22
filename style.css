@@ -1,0 +1,26 @@
+*{
+    font-size: 50px;
+    background-color: #edcfd2;
+}
+h1{
+    text-align: center;
+}
+#mydiv{
+    width: 600px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 20px;
+}
+#myimg{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    display: grid;
+    place-items: center; 
+    margin: 20px;
+}
+
